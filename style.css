@@ -1,0 +1,49 @@
+*{
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2, h3, h4{
+
+    color: black;
+    background-color: rgb(236, 190, 130);
+
+
+
+}
+
+.head-1{
+
+          color: rgb(209, 123, 18);
+
+}
+
+#para-1{
+
+          background-color: rgb(5, 83, 95);
+          color: rgb(209, 123, 18);
+          
+
+}
+
+li>a{
+
+
+    color: brown;
+}
+
+ul b{
+
+
+    color: rgb(74, 172, 172);
+}
+
+
+h5+p{
+
+    color: rgb(235, 77, 77);
+}
+
+h1~b{
+
+    color: rgb(9, 7, 169);
+}
